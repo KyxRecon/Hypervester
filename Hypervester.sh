@@ -4,7 +4,7 @@
 #Enabled in two mode 
 # NAME : Hypervester
 # VERSION : Alpha 1.0
-#AUTHOR : Alexcerus HR
+#AUTHOR : Lucifer HR
 # 
 #In first mode you have to create sitemap manually. You can use (http://www.xml-sitemaps.com/) to create sitemap.
 clear
